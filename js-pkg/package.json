@@ -1,0 +1,29 @@
+{
+  "name": "@verbasafe/profanity-filter",
+  "version": "1.0.0",
+  "description": "Multi-language profanity filter for JS environments.",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "dictionaries"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run"
+  },
+  "keywords": [
+    "profanity",
+    "filter",
+    "kinyarwanda",
+    "laravel",
+    "react"
+  ],
+  "author": "Manzi Irakoze Kevin",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  }
+}
