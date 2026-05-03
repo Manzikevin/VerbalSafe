@@ -1,0 +1,19 @@
+# Composer dependencies
+# We don't commit the vendor folder because users will 
+# download their own copies when they install the package.
+/vendor/
+composer.lock
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Testing / Local logs
+error_log
+php_errors.log
