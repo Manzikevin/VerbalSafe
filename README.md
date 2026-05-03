@@ -167,7 +167,7 @@ Released under the [MIT License](./LICENSE).
 
 <div align="center">
 
-Maintained by [MANZI IRAKOZE KEVIN](https://github.com/Code-harness) · [@Code-harness](https://github.com/Code-harness)
+Maintained by [MANZI IRAKOZE KEVIN](https://github.com/Manzikevin) · [@Code-harness](https://github.com/Manzikevin)
 
 ⭐ Star this repo if VerbalSafe helps your project!
 
