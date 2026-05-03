@@ -8,7 +8,7 @@ const mockDicts = {
     fr: ['mauvais']
 };
 
-describe('VerbaSafe JS Filter', () => {
+describe('VerbalSafe JS Filter', () => {
     
     it('should mask words using the default language set', () => {
         const filter = new Filter(mockDicts);

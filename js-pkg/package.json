@@ -1,5 +1,5 @@
 {
-  "name": "@verbasafe/profanity-filter",
+  "name": "@VerbalSafe/profanity-filter",
   "version": "1.0.0",
   "description": "Multi-language profanity filter for JS environments.",
   "main": "dist/index.js",
