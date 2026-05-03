@@ -1,0 +1,12 @@
+{
+  "language": "English",
+  "iso_code": "en",
+  "words": [
+    "badword1",
+    "badword2"
+  ],
+  "phrases": [
+    "phrase to block",
+    "another offensive phrase"
+  ]
+}
