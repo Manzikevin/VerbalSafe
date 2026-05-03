@@ -1,6 +1,6 @@
 <?php
 
-namespace VerbaSafe\Core;
+namespace VerbalSafe\Core;
 
 class Config
 {

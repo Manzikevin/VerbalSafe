@@ -1,17 +1,17 @@
 {
-    "name": "verbasafe/profanity-filter",
+    "name": "VerbalSafe/profanity-filter",
     "description": "A multi-language profanity filter for PHP and Laravel.",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "VerbaSafe\\Core\\": "src/"
+            "VerbalSafe\\Core\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "VerbaSafe\\Core\\VerbaSafeServiceProvider"
+                "VerbalSafe\\Core\\VerbalSafeServiceProvider"
             ]
         }
     },

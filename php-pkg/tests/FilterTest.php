@@ -3,7 +3,7 @@
 require_once __DIR__ . '/../src/Config.php';
 require_once __DIR__ . '/../src/Filter.php';
 
-use VerbaSafe\Core\Filter;
+use VerbalSafe\Core\Filter;
 
 // Test 1: Default loading (All languages)
 $filter = new Filter();

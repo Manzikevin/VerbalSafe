@@ -1,10 +1,10 @@
 <?php
 
-namespace VerbaSafe\Core;
+namespace VerbalSafe\Core;
 
 use Illuminate\Support\ServiceProvider;
 
-class VerbaSafeServiceProvider extends ServiceProvider
+class VerbalSafeServiceProvider extends ServiceProvider
 {
     /**
      * Register the service in the Laravel container.
